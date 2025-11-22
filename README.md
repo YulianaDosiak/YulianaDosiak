@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YulianaDosiak/YulianaDosiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://i.pinimg.com/originals/65/67/73/656773949142bbc74c58d701e574b7fe.gif" width="300" />
 
-Here are some ideas to get you started:
+  <h1>🎀 hi there! i'm yuliana >.<</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://i.gifer.com/YAg6.gif" width="150" />
+
+  <br/><br/>
+
+  <br/>
+
+  <img src="https://i.pinimg.com/originals/53/ce/a5/53cea512218eb024809f290f13e736de.gif" width="250" />
+
+</div>
